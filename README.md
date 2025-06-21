@@ -39,6 +39,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/bilgekagandeveci/bilgekagandeveci/output/snake.svg" alt="Snake animation" />
+
 
 ###
